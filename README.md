@@ -1,3 +1,11 @@
+
+
+EXECUÇAO DO SCRIPT  ==========>    git clone https://github.com/zumgabutm/RSPROXY--SSH-CLOUD.git && cd RSPROXY--SSH-CLOUD && unzip RSPROXY.zip && python3 rsproxy.py
+
+
+
+
+
 RSPROXYY-SSH CLOUD
 Portuguese:
 "RSPROXYY-SSH CLOUD" é uma solução avançada para gerenciamento remoto de servidores SSH e proxies na nuvem. Este projeto foi desenvolvido para oferecer controle e flexibilidade superiores aos administradores de sistemas, simplificando a configuração e o monitoramento de portas SSH e proxies em um ambiente de nuvem.
